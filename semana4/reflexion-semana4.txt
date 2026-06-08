@@ -1,0 +1,17 @@
+Poder construir herramientas tecnológicas propias es fundamental para las
+comunidades y las iniciativas ciudadanas, porque les permite resolver sus
+necesidades específicas sin depender de plataformas comerciales que no
+siempre están diseñadas para sus realidades.
+
+Node.js es especialmente valioso en este contexto porque es una tecnología
+abierta, gratuita y ampliamente documentada, lo que reduce las barreras de
+entrada para personas que están aprendiendo a programar. Gracias a esto,
+comunidades con recursos limitados pueden desarrollar aplicaciones web
+funcionales sin incurrir en costos de licenciamiento.
+
+Además, construir herramientas propias fortalece la autonomía digital de las
+comunidades: pueden adaptarlas, mejorarlas y compartirlas libremente. Esto
+fomenta la colaboración, el aprendizaje colectivo y la participación activa
+de los ciudadanos en el diseño de soluciones que impactan su entorno,
+alineándose con los principios del software libre y la tecnología al
+servicio del bien común.

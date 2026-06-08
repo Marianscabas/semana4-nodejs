@@ -1,0 +1,15 @@
+Las APIs permiten que las comunidades compartan información de forma 
+organizada y estructurada, sin depender de medios informales como mensajes 
+de texto o redes sociales donde los datos se pierden fácilmente.
+
+A través de una API, una comunidad podría crear un sistema donde los vecinos 
+reporten problemas, emergencias o necesidades desde cualquier dispositivo, 
+y esa información llegaría de manera ordenada a quienes deben actuar.
+
+También facilitaría la integración con otras plataformas: por ejemplo, una 
+API comunitaria podría conectarse con sistemas municipales, mapas en línea 
+o aplicaciones de alertas tempranas, multiplicando el impacto de cada reporte.
+
+Además, al estructurar la información con APIs, se puede llevar un historial 
+de los reportes, identificar patrones y tomar decisiones basadas en datos 
+reales, lo que fortalece la participación ciudadana y mejora la convivencia.
